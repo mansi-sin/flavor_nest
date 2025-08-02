@@ -1,5 +1,4 @@
-# Flavor Nest
-# Fresh Website 🌿
+# Flavor Nest 🌿
 
 Fresh Website is a clean, modern, and fully responsive static website developed using HTML5 and CSS3.  
 This project demonstrates fundamental web development skills including semantic markup, responsive design, and basic styling techniques.
@@ -34,7 +33,7 @@ This static website project is designed to showcase:
 ---
 
 ## 📁 Project Structure
-    fresh_website/
+    flavor_nest/
 ├── index.html
 ├── style.css
 ├── images/
